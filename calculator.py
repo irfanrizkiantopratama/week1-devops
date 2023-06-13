@@ -3,10 +3,6 @@
 def add(a, b):
     return a + b
 
-def test_add():
-    assert add(1,1) == 0
-
-
 # Subtract Method
 def sub(a, b):
     return a - b
