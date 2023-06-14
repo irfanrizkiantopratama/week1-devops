@@ -1,4 +1,4 @@
-from calculator import add, div, mul, sub
+from calculator import add, sub, mul, div
 
 def test_add():
     assert add(1, 1) == 2
