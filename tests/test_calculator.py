@@ -6,8 +6,7 @@ def test_add():
 
 def test_sub():
     assert sub(1, 1) == 0
-
-
+    
 def test_mul():
     assert mul(1, 1) == 1
 
