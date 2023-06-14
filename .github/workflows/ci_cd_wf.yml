@@ -28,6 +28,7 @@ jobs:
       - name: Run tests
         run: |
           python -m pytest -v tests
+          pip install pytest-cov
 
       - name: Run coverage tests
         run: |
