@@ -16,9 +16,7 @@ def mul(a, b):
 # Division
 def div(a, b):
     return a / b
-
-def test_add():
-    assert add(1,1) == 10
+    
 
 if __name__ == "__main__":
     # Declare variable and set default values
